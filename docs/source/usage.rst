@@ -1,7 +1,19 @@
-Installation
+Usage
 ===
 
-.. autosummary::
-   :toctree: generated
+.. _usage:
 
-   lumache
+GUI introduction
+------------
+
+GUI....
+
+Case 1: 
+------------
+
+....
+
+Case 2: 
+------------
+
+....
